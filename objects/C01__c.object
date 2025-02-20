@@ -180,6 +180,13 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>co1_field4__c</fullName>
+        <label>co1 field4</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
     <label>C01</label>
     <nameField>
         <label>C01 Name</label>
