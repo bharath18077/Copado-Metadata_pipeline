@@ -16,6 +16,10 @@
                 <behavior>Edit</behavior>
                 <field>Co1_field_1__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>co1_field4__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsLeftToRight</style>
