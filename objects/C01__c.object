@@ -188,6 +188,11 @@
         <type>Phone</type>
     </fields>
     <label>C01</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>C01 Name</label>
         <type>Text</type>
