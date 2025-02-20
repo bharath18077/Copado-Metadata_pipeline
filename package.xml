@@ -16,6 +16,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>C01__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>Account-Account Layout</members>
         <members>C01__c-C01 Layout</members>
         <name>Layout</name>
@@ -23,6 +27,10 @@
     <types>
         <members>C01__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Accounts_with_Entitlements_with_Contacts</members>
