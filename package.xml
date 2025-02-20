@@ -5,6 +5,8 @@
         <members>Account.field_2__c</members>
         <members>Account.field__c</members>
         <members>Account.text__c</members>
+        <members>C01__c.co1_field3__c</members>
+        <members>C01__c.co1_field4__c</members>
         <name>CustomField</name>
     </types>
     <types>
