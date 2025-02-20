@@ -24,5 +24,9 @@
         <members>C01__c.All</members>
         <name>ListView</name>
     </types>
+    <types>
+        <members>Accounts_with_Entitlements_with_Contacts</members>
+        <name>ReportType</name>
+    </types>
     <version>62.0</version>
 </Package>
