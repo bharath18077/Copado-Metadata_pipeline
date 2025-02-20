@@ -2,7 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Account.field_2__c</members>
-        <members>Account.field__c</members>
         <members>Account.text__c</members>
         <name>CustomField</name>
     </types>
