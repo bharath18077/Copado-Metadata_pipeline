@@ -5,10 +5,6 @@
         <members>Account.field_2__c</members>
         <members>Account.field__c</members>
         <members>Account.text__c</members>
-        <members>C01__c.Co1_field_1__c</members>
-        <members>C01__c.Co1_field_2__c</members>
-        <members>C01__c.co1_field3__c</members>
-        <members>C01__c.co1_field4__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -19,18 +15,6 @@
         <members>Account-Account Layout</members>
         <members>C01__c-C01 Layout</members>
         <name>Layout</name>
-    </types>
-    <types>
-        <members>C01__c.All</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>Accounts_with_Entitlements_with_Contacts</members>
-        <name>ReportType</name>
     </types>
     <version>62.0</version>
 </Package>
