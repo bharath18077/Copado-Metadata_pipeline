@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.check__c</members>
+        <members>Account.field_2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Analytics Cloud Security User</members>
+        <members>Anypoint Integration</members>
+        <name>Profile</name>
+    </types>
+    <version>62.0</version>
+</Package>
