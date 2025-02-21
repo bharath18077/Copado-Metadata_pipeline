@@ -3,19 +3,12 @@
     <types>
         <members>Account.check__c</members>
         <members>Account.field_2__c</members>
-        <members>Account.field__c</members>
         <members>Account.text__c</members>
-        <members>C01__c.co1_field4__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>C01__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Account-Account Layout</members>
-        <members>C01__c-C01 Layout</members>
-        <name>Layout</name>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
     <version>62.0</version>
 </Package>
