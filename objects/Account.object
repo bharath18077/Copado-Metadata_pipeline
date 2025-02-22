@@ -360,6 +360,26 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>testfield1__c</fullName>
+        <externalId>false</externalId>
+        <label>testfield1</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>testfield2__c</fullName>
+        <externalId>false</externalId>
+        <label>testfield2</label>
+        <length>254</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>text__c</fullName>
         <externalId>false</externalId>
         <label>text</label>
