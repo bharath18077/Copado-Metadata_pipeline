@@ -5,5 +5,9 @@
         <members>Account.testfield2__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
     <version>62.0</version>
 </Package>
