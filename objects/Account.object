@@ -251,7 +251,7 @@
     </fields>
     <fields>
         <fullName>Fax</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>True</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Industry</fullName>
