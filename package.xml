@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>site%2Fbharath1.sfdc_cms__appPage%2FmainAppPage</members>
+        <members>site%2Fbharath1.sfdc_cms__brandingSet%2Fmicrosite_template_marketing_branding</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FCheck_Password</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FError</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FForgot_Password</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FHome</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FLogin</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FNews_Detail__c</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FRegister</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FService_Not_Available</members>
+        <members>site%2Fbharath1.sfdc_cms__route%2FToo_Many_Requests</members>
+        <members>site%2Fbharath1.sfdc_cms__theme%2FMarketing_Microsite</members>
+        <members>site%2Fbharath1.sfdc_cms__themeLayout%2FheaderAndFooter</members>
+        <members>site%2Fbharath1.sfdc_cms__themeLayout%2FsnaThemeLayout</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2FcheckPasswordResetEmail</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2Ferror</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2FforgotPassword</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2Fhome</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2Flogin</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2FnewsDetail</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2Fregister</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2FserviceNotAvailable</members>
+        <members>site%2Fbharath1.sfdc_cms__view%2FtooManyRequests</members>
+        <name>DigitalExperience</name>
+    </types>
+    <types>
         <members>site%2Fbharath1</members>
         <name>DigitalExperienceBundle</name>
     </types>
