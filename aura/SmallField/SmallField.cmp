@@ -1,0 +1,7 @@
+<aura:component>
+    <aura:attribute name="fieldValue" type="String"/>
+    
+    <lightning:input label="Enter Text" value="{!v.fieldValue}" name="textField"/>
+    
+    <p>You entered: {!v.fieldValue}</p>
+</aura:component>
