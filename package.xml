@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Object1__c.field11__c</members>
-        <members>Object1__c.field12__c</members>
-        <name>CustomField</name>
+        <members>test_application</members>
+        <name>CustomApplication</name>
     </types>
     <types>
-        <members>Object1__c</members>
-        <name>CustomObject</name>
+        <members>sample_custom_label</members>
+        <name>CustomLabel</name>
     </types>
-    <version>62.0</version>
+    <types>
+        <members>test_application_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <version>63.0</version>
 </Package>
