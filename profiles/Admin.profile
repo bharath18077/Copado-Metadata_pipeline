@@ -45,6 +45,14 @@
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Account-layout 2</layout>
+        <recordType>Account.record_type_1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-layout 3</layout>
+        <recordType>Account.record_type_2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>C01__c-C01 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -56,6 +64,16 @@
         <object>C01__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account.record_type_1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.record_type_2</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>C01__c</tab>
         <visibility>DefaultOn</visibility>
