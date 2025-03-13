@@ -35,7 +35,7 @@
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-layout 2</layout>
+        <layout>Account-layout 3</layout>
         <recordType>Account.record_type_1</recordType>
     </layoutAssignments>
     <layoutAssignments>
