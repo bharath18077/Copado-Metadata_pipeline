@@ -12,6 +12,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Account-layout 2</layout>
         <recordType>Account.record_type_1</recordType>
     </layoutAssignments>
