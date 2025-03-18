@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>custom_label_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>custom label 2</shortDescription>
+        <value>Valuew is 2</value>
+    </labels>
+    <labels>
+        <fullName>custom_label_4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>custom label 4</shortDescription>
+        <value>valie is 4</value>
+    </labels>
+    <labels>
+        <fullName>custom_lable_3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>custom lable 3</shortDescription>
+        <value>value iss 3</value>
+    </labels>
+    <labels>
         <fullName>sample_custom_label</fullName>
         <language>en_US</language>
         <protected>false</protected>
