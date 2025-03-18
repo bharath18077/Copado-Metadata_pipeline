@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account-layout 3</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Analytics Cloud Integration User</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>Account.record_type_1</members>
-        <name>RecordType</name>
+        <members>sample_custom_label</members>
+        <name>CustomLabel</name>
     </types>
     <version>63.0</version>
 </Package>
