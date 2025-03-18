@@ -15,6 +15,13 @@
         <value>valie is 4</value>
     </labels>
     <labels>
+        <fullName>custom_labell_5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>custom labell 5</shortDescription>
+        <value>this is the 5th value</value>
+    </labels>
+    <labels>
         <fullName>custom_lable_3</fullName>
         <language>en_US</language>
         <protected>false</protected>
