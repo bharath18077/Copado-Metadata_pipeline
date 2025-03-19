@@ -4,5 +4,9 @@
         <members>PT1_profilePasswordPolicy1742370687674</members>
         <name>ProfilePasswordPolicy</name>
     </types>
+    <types>
+        <members>PT1_profileSessionSetting1742370633230</members>
+        <name>ProfileSessionSetting</name>
+    </types>
     <version>63.0</version>
 </Package>
