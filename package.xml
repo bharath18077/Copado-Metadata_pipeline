@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>PT1_profilePasswordPolicy1742370687674</members>
-        <name>ProfilePasswordPolicy</name>
-    </types>
-    <types>
-        <members>PT1_profileSessionSetting1742370633230</members>
-        <name>ProfileSessionSetting</name>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
     <version>63.0</version>
 </Package>
